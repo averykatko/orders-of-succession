@@ -1,0 +1,19 @@
+# Mac OS X folder attributes
+**/.DS_Store
+
+# Java
+*.jar
+*.class
+
+# Python
+*.pyc
+
+# R
+.Rhistory
+.RData
+
+# TeX
+*.aux
+*.log
+*.synctex.gz
+*.pdf
